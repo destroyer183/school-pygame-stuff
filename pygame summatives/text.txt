@@ -1,0 +1,133 @@
+Budget
+CPU
+Motherboard
+RAM
+Storage
+GPU
+Keyboard
+Mouse
+Monitor
+Speakers
+ 
+images/budget 1.png
+images/amd ryzen 3.png
+images/amd mother.png
+images/8gb ram.png
+images/ssd storage.png
+images/good gpu.png
+images/good keyboard.png
+images/good mouse.png
+images/big monitor.png
+images/headset.png
+ 
+images/budget 2.png
+images/intel core i3.png
+images/intel mother.png
+images/16gb ram.png
+images/hdd storage.png
+images/meh gpu.png
+images/ergo keyboard.png
+images/bad mouse.png
+images/small monitor.png
+images/speaker.png
+ 
+images/budget 3.png
+
+
+
+
+images/bad gpu.png
+images/keyboard.png
+images/mouse.png
+ 
+ 
+AMD Ryzen 3
+ASUS Prime
+G.SKILL 8GB
+SAMSUNG 2TB
+GeForce 4080
+KEYCHRON Q7
+ROCCAT KONE
+MSI Optix 27in
+Razer Kraken V3
+ 
+ 
+Intel Core i3
+MSI PRO
+CORSAIR 16GB
+Seagate 4TB
+GeForce 3060 Ti
+MICROSOFT Ergonomic
+Logitech ERGO
+ACER Nitro 23.8in
+CREATIVE Sound Bar
+ 
+ 
+
+
+
+ 
+GeForce 1650
+Logitech Keyboard
+Logitech Wireless
+
+ 
+160
+185
+70
+300
+1630
+210
+130
+440
+90
+
+ 
+180
+210
+85
+130
+750
+85
+70
+200
+50
+
+ 
+
+
+
+
+230
+20
+45
+
+3.6 GHz base clock speed, four cores, 65W TDP, 70fps ultra HD graphics benchmark.
+ASUS Prime B550M-A: Ryzen 3 compatible, 4 memory slots 128 GB max memory, 4333MHz max memory speed, 6 USB ports.
+G.SKILL Ripjaws 4 Series 8GB: 2x4GB components, 8GB memory size, DDR4 3200MHz memory speed.
+SAMSUNG 970 EVO Plus 2TB: 2 TB storage, 3.5 GB/s read, 3.3 GB/s write.
+ASUS TUF Gaming GeForce RTX 4080: 16 GB memory, 9728 cores, 2.5GHz boost clock, 320W TBP
+KEYCHRON Q7: 65% keyboard, gateron pro red switches, 1000Hz polling rate.
+ROCCAT KONE AIMO: Owl-Eye optical sensor with 16000dpi, 1000Hz polling rate, 1ms response time.
+MSI Optix G273QPF 27in: 1260x1440 max resolution, 165hz refresh rate, 1ms response time.
+Razer Kraken V3 X: 12Hz Minimum Frequency Response, 28 kHz Maximum Frequency Response.
+
+3.3 GHz base clock speed, four cores, 60W TDP, 75fps ultra HD graphics benchmark.
+GIGABYTE MSI PRO B660M-A: Core i3 compatible, 4 memory slots 128 GB max memory, 3600MHz max memory speed, 6 USB ports.
+CORSAIR Vengeance RGB Pro 16GB: 2x8GB components, 16GB memory size, DDR4 3200MHz memory speed.
+Seagate BarraCuda 4TB: 4 TB storage, 540 MB/s read, 520 MB/s write.
+GIGABYTE GeForce RTX 3060 Ti: 8 GB memory, 4864 cores, 1.74 GHz clock speed, 200W TBP
+MICROSOFT Ergonomic Keyboard: ergonomic keyboard.
+Logitech ERGO M575 Wireless Trackball: ergonomic wireless mouse with a trackball.
+ACER Nitro 23.8in: 1920x1080 max resolution, 165hz refresh rate, 2ms response time.
+CREATIVE Stage Air Sound Bar: 80Hz Minimum Frequency Response, 20 kHz Maximum Frequency Response.
+
+
+
+
+ 
+GIGABYTE GeForce GTX 1650: 4 GB memory, 896 cores, 1.64 GHz clock speed, 75W TBP
+Logitech K120 USB Keyboard: keyboard.
+Logitech M510 Wireless Laser Mouse: mouse.
+
+press buy again to close program, or go back with arrow keys.
